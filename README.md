@@ -1,10 +1,10 @@
 # Team-DTechtives 
 (Product Name) Documentation 
 
-**Short Description -  **
+# Short Description -  
 
 
-**Complete Case Study - **
+# Complete Case Study - 
 
 The issue of safety at parking areas has become more relevant over the years. If the recent massive fires at parking lots in Bengaluru and Chennai in which hundreds of cars were gutted, are any indication, then it is high time we take a serious look at safety measures in these places.
 
