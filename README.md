@@ -1,5 +1,5 @@
 # Team-DTechtives 
-(Product Name) Documentation 
+DTechtive Documentation 
 
 # Short Description -  
 
