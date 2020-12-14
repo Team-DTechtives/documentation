@@ -1,7 +1,9 @@
 # Team-DTechtives 
 DTechtive Documentation 
 
-# Short Description -  
+# Short Description - 
+Attention is the key for security and our project helps you to be alert at the key moment using state of the art machine intelligence.
+
 
 
 # Complete Case Study - 
